@@ -13,3 +13,6 @@ venv/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Microsoft Office temporary files
+~$*
