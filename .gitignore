@@ -16,3 +16,5 @@ Thumbs.db
 
 # Microsoft Office temporary files
 ~$*
+
+*.xlsx
