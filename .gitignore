@@ -18,3 +18,5 @@ Thumbs.db
 ~$*
 
 *.xlsx
+# Logisim autosave files
+*.autosave
